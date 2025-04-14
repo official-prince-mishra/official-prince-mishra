@@ -5,6 +5,42 @@
 </p>
 <h1></h1>
 <p></p>
+
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/official-prince-mishra”>
+        <img width=100% src="https://github-profile-trophy.vercel.app/?username=official-prince-mishra8&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/official-prince-mishra">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul1028&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/offical-prince-mishra">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=official-prince-mishra&theme=nord_dark">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=official-prince-mishra&show_icons=true&theme=radical&count_private=true&border_radius=10&card_width=500&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-prince-mishra&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>

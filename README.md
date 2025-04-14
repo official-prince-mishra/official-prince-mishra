@@ -1,7 +1,8 @@
-# 💫 About Me:
-I am a 3rd Year B.Tech student from NIET.<br>I love Solving DSA.
-
-
+<h1 align="center">Hey, I'm Prince Mishra</h1>
+<h3 align="center">From Mumbai, India</h3>
+<p align="center">
+  I am a 3rd year student who loves coding and creating web applications.
+</p>
 <h1></h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
